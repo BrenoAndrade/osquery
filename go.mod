@@ -1,4 +1,4 @@
-module github.com/brenoandrade/esquery
+module github.com/brenoandrade/osquery
 
 go 1.13
 
